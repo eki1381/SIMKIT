@@ -1,0 +1,12 @@
+{
+    "name": "Recipe PWA",
+    "short_name": "Recipe PWA",
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#000",
+    "description": "You favorite recipe app",
+    "dir": "ltr",
+    "lang": "en-US"
+}
